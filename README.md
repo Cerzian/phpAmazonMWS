@@ -1,3 +1,5 @@
+forked from [CPIGroup/phpAmazonMWS](https://github.com/CPIGroup/phpAmazonMWS)
+
 phpAmazonMWS
 ============
 
