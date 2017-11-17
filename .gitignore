@@ -4,3 +4,6 @@ test.php
 log.txt
 /test-cases/log.txt
 composer.lock
+/mock
+/vendor
+/.idea
